@@ -1,0 +1,16 @@
+.blue {
+    background-color: blue;
+}
+
+.white {
+    background-color: white;
+}
+
+.red {
+    background-color: red;
+}
+
+.disabled {
+    pointer-events: none;
+    opacity: 0.5;
+}
